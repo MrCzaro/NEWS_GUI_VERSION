@@ -1,0 +1,2 @@
+# NEWS_GUI_VERSION
+The NEWS Calculator - GUI VERSION
